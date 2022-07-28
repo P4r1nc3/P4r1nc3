@@ -3,10 +3,13 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Konrad -->
 
 ### 👨🏻‍💻 &nbsp;About Me
+📚 I'm currently studying: 
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Applied Computer Science at the Jagiellonian university.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+   💻 Applied Computer Science at the Jagiellonian University.\
+   🦾 Automation and Robotics at the AGH University of Science and Technology.
+          
+💡 I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 
 
 ### ⚙️ &nbsp;GitHub Analytics

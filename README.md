@@ -1,7 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Konrad</h2>
 
 <!-- # 👋 &nbsp;Hey there! I'm Konrad -->
-
+[![](https://visitcount.itsvg.in/api?id=P4r1nc3&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ### 👨🏻‍💻 &nbsp;About Me
 📚 I'm currently studying: 
 
@@ -12,8 +12,9 @@
 🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
+
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/P4r1nc3">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=P4r1nc3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

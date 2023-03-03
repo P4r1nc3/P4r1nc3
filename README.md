@@ -1,7 +1,7 @@
 <!-- # 👋 &nbsp;Hey there! I'm Konrad -->
 [![](https://visitcount.itsvg.in/api?id=P4r1nc3&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ### 👨🏻‍💻 &nbsp;About Me
-📚 I'm currently studying: 
+📚 I'm currently studying:
 
    💻 Applied Computer Science at the Jagiellonian University.\
    🦾 Automation and Robotics at the AGH University of Science and Technology.

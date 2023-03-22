@@ -14,13 +14,22 @@
 ## 💻 Some of my code
 ### Jagiellonian University
 
+|**Project**|**Description**|
+|:----------|:----|
+| 🌐 [WWW Static Project](https://github.com/P4r1nc3/UJ_WWW_Static_Project) | First project for WWW Technics classes. |
+| 🌐 [WWW Dynamic Project](https://github.com/P4r1nc3/UJ_WWW_Dynamic_Project) |  Second project for WWW Technics classes.|
+| 🐍 [Python](https://github.com/P4r1nc3/UJ_Python) |  Exercises for Python classes. |
+| 🐍 [Python Final Project](https://github.com/P4r1nc3/UJ_Python_Project) | Project for Python classes. |
+| 📊 [Introduction to Data Science](https://github.com/P4r1nc3/UJ_Data_Science) | Exercises for Introduction to Data Science classes. |
+
+
 
 ### University of Helsinki MOOC
 
 |**Project**|**Description**|
 |:----------|:----|
-| 🐍  [Python Programming I](https://github.com/P4r1nc3/Python_Programming_MOOC_2022_I) | This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Python Programming](https://programming-22.mooc.fi). |
-| 🐍  [Python Programming II](https://github.com/P4r1nc3/Python_Programming_MOOC_2022_II) | This is the second part of the [University of Helsinki’s free massive open online course (MOOC) on Python Programming](https://programming-22.mooc.fi). |
+| 🐍 [Python Programming I](https://github.com/P4r1nc3/Python_Programming_MOOC_2022_I) | This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Python Programming](https://programming-22.mooc.fi). |
+| 🐍 [Python Programming II](https://github.com/P4r1nc3/Python_Programming_MOOC_2022_II) | This is the second part of the [University of Helsinki’s free massive open online course (MOOC) on Python Programming](https://programming-22.mooc.fi). |
 | ☕ [Java Programming I](https://github.com/P4r1nc3/Java_Programming_MOOC_2022_II) | This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Object-Oriented Programming with Java](https://java-programming.mooc.fi/). |
 | ☕ [Java Programming II](https://github.com/P4r1nc3/Java_Programming_MOOC_2022_II) | This is the second part of the [University of Helsinki’s free massive open online course (MOOC) on Object-Oriented Programming with Java](https://java-programming.mooc.fi/). |
 

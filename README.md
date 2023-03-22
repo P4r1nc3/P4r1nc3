@@ -18,7 +18,7 @@
 | 🐍 [Python](https://github.com/P4r1nc3/UJ_Python) |  Exercises for Python classes. |
 | 🐍 [Python Final Project](https://github.com/P4r1nc3/UJ_Python_Project) | Project for Python classes. |
 | 📊 [Introduction to Data Science](https://github.com/P4r1nc3/UJ_Data_Science) | Exercises for Introduction to Data Science classes. |
-| 📟 [Advanced techniques of programming in C++](https://github.com/P4r1nc3/UJ_Data_Science) | Exercises for Advanced techniques of programming in C++ classes. |
+| 📟 [Advanced techniques of programming in C++](https://github.com/P4r1nc3/UJ_Advanced_Programming_in_Cpp) | Exercises for Advanced techniques of programming in C++ classes. |
 
 
 ### University of Helsinki MOOC

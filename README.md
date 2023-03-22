@@ -13,7 +13,7 @@
 ## 💻 Some of my code
 ### Jagiellonian University
 
-|**Project**|**Description**|
+|**Repository**|**Description**|
 |:----------|:----|
 | 🌐 [WWW Static Project](https://github.com/P4r1nc3/UJ_WWW_Static_Project) | First project for WWW Technics classes. |
 | 🌐 [WWW Dynamic Project](https://github.com/P4r1nc3/UJ_WWW_Dynamic_Project) |  Second project for WWW Technics classes.|
@@ -25,7 +25,7 @@
 
 ### University of Helsinki MOOC
 
-|**Project**|**Description**|
+|**Repository**|**Description**|
 |:----------|:----|
 | 🐍 [Python Programming I](https://github.com/P4r1nc3/Python_Programming_MOOC_2022_I) | This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Python Programming](https://programming-22.mooc.fi). |
 | 🐍 [Python Programming II](https://github.com/P4r1nc3/Python_Programming_MOOC_2022_II) | This is the second part of the [University of Helsinki’s free massive open online course (MOOC) on Python Programming](https://programming-22.mooc.fi). |

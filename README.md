@@ -2,15 +2,13 @@
 <h3 align="center"> I'm a student and programming passionate from Poland </h3>
 
 ## 👨🏻‍💻 &nbsp;About Me
-📚 I'm currently studying:
 
-   💻 Applied Computer Science at the Jagiellonian University.\
-   🦾 Automation and Robotics at the AGH University of Science and Technology.
-          
-💡 I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+- 💻 Third year Applied Computer Science student at the Jagiellonian University.
+- 🦾 Second year Automation and Robotics student at the AGH University of Science and Technology.     
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 📚 I’m currently learning Java and Spring framework.  
 
-## 💻 Some of my code
+##  💻 Some of my code
 ### Jagiellonian University
 
 |**Repository**|**Description**|

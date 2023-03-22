@@ -1,4 +1,5 @@
 <h1 align="center"> 👋 &nbsp;Hey there! I'm Konrad </h1>
+<h3 align="center"> I'm a student and programming passionate from Poland </h3>
 
 [![](https://visitcount.itsvg.in/api?id=P4r1nc3&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 

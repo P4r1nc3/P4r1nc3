@@ -30,8 +30,8 @@
 |:----------|:----|
 | 🐍 [Python Programming I](https://github.com/P4r1nc3/Python_Programming_MOOC_2022_I) | This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Python Programming](https://programming-22.mooc.fi). |
 | 🐍 [Python Programming II](https://github.com/P4r1nc3/Python_Programming_MOOC_2022_II) | This is the second part of the [University of Helsinki’s free massive open online course (MOOC) on Python Programming](https://programming-22.mooc.fi). |
-| ☕ [Java Programming I](https://github.com/P4r1nc3/Java_Programming_MOOC_2022_II) | This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Object-Oriented Programming with Java](https://java-programming.mooc.fi/). |
-| ☕ [Java Programming II](https://github.com/P4r1nc3/Java_Programming_MOOC_2022_II) | This is the second part of the [University of Helsinki’s free massive open online course (MOOC) on Object-Oriented Programming with Java](https://java-programming.mooc.fi/). |
+| ☕ [Java Programming I](https://github.com/P4r1nc3/Java_Programming_MOOC_I) | This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Object-Oriented Programming with Java](https://java-programming.mooc.fi/). |
+| ☕ [Java Programming II](https://github.com/P4r1nc3/Java_Programming_MOOC_II) | This is the second part of the [University of Helsinki’s free massive open online course (MOOC) on Object-Oriented Programming with Java](https://java-programming.mooc.fi/). |
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">

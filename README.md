@@ -3,8 +3,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 💻 Third year Applied Computer Science student at the Jagiellonian University.
-- 🦾 Second year Automation and Robotics student at the AGH University of Science and Technology.     
+- 💻 I am a graduate of Applied Computer Science at the Jagiellonian University.
+- 🦾 Third year Automation and Robotics student at the AGH University of Science and Technology.     
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 📚 I’m currently learning Java and Spring framework.  
 

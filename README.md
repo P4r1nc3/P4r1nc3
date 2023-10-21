@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 &nbsp;Hey there! I'm Konrad </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=3534C3&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Graduate;Automation+and+Robotics+Student;Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=abd202&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Graduate;Automation+and+Robotics+Student;Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me
@@ -16,14 +16,9 @@
 
 <details open="">
 <br>
-<p align="center">
-  <a href="https://github.com/Ratheshan03">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=P4r1nc3&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/Ratheshan03">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4r1nc3&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=P4r1nc3&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Ratheshan03" /></p>
+  <p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=P4r1nc3&show_icons=true&theme=merko">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=P4r1nc3&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+  </p>
 </details>
 

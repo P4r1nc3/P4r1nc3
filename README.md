@@ -1,7 +1,9 @@
 <h1 align="center"> 👋 &nbsp;Hey there! I'm Konrad </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=abd202&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Graduate;Automation+and+Robotics+Student;Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=abd202&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Graduate;Automation+and+Robotics+Student;Software+Engineer" alt="Typing SVG" />
+  </a>
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me

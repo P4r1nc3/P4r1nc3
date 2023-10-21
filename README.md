@@ -17,8 +17,8 @@
 <details open="">
 <br>
   <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=P4r1nc3&show_icons=true&theme=merko">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=P4r1nc3&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=P4r1nc3&show_icons=true&theme=merko&card_width=500">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=P4r1nc3&theme=merko&date_format=M%20j%5B%2C%20Y%5D&&card_width=500">
   </p>
 </details>
 
